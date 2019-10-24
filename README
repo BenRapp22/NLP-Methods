@@ -1,3 +1,6 @@
 This repository includes methods used in an NLP project during my undergraduate research 
-tenure at Temple University in the first semester of my sophomore year. It is currently 
-being updated to preserve project integrity. 
+tenure at Temple University in the first semester of my sophomore year. 
+
+DocAnalysis is a program that analyzes a 5 labeled collections in a corpus of documents. It
+tests for the frequency of a given string in every document contained in a collection. Learn
+more about the program inside the file!
